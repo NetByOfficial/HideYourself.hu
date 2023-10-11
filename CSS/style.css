@@ -1,0 +1,113 @@
+@font-face{
+    font-family: Courier;
+    src: url(../FONTS/CourierRegular.ttf);
+}
+
+@font-face{
+    font-family: OldSchool;
+    src: url(../FONTS/old_school_united_stencil.ttf);
+}
+@font-face{
+    font-family: Inversionz;
+    src: url(../FONTS/Inversionz.ttf);
+}
+
+@font-face{
+    font-family: RedHands;
+    src: url(../FONTS/KGRedHands.ttf);
+}
+@font-face{
+    font-family: TW-Cen-MT-Condensed;
+    src: url(../FONTS/Tw\ Cen\ MT\ Condensed\ Bold.ttf);
+}
+@font-face{
+    font-family: Poppins-Light;
+    src: url(../FONTS/Poppins/Poppins-Medium.ttf);
+}
+
+@font-face{
+    font-family: Poppins-Bold;
+    src: url(../FONTS/Poppins/Poppins-Bold.ttf);
+}
+
+@font-face{
+    font-family: QuickSand-Light;
+    src: url(../FONTS/QuickSand/Quicksand-Light.ttf);
+}
+
+@font-face{
+    font-family: QuickSand-Bold;
+    src: url(../FONTS/QuickSand/Quicksand-Medium.ttf);
+}
+
+@font-face{
+    font-family: BRUX;
+    src: url(../FONTS/Brux-Font/BRUX.otf);
+}
+body{
+    background-color: white;
+    color: white;
+    font-family: 'Inversionz';
+}
+.topmenu{
+    background-color: rgb(173, 72, 72);
+    border-radius: 15px;
+    box-shadow: 0 16px 16px rgba(0, 0, 0, 0.37);
+}
+.nametext{
+    font-size: 2cm;
+    text-align: center;
+    font-family: 'OldSchool';
+}
+.nametext A{
+    font-size: 0.9cm;
+    text-align: center;
+    font-family: 'Poppins-Bold';
+    color: rgb(248, 191, 106);
+    text-decoration: none;
+}
+.nametext p{
+    font-size: 0.8cm;
+    text-align: center;
+    font-family: 'RedHands';
+}
+.container{
+    font-family: 'TW-Cen-MT-Condensed';
+    color: black;
+    font-size: 0.7cm;
+    text-align: center;
+}
+.gombok{
+    background-color: rgb(37, 37, 37);
+    color: white;
+    font-size: 0.9cm;
+    text-align: center;
+    box-shadow: 0 16px 16px rgba(0, 0, 0, 0.384);
+}
+a{
+    color: white;
+    transition: all 0.3s;
+    font-size: 1.0;
+    text-decoration: underline;
+}
+a:hover{
+    color: rgb(216, 216, 216);
+    transition: all 0.3s;
+    font-size: 1.1cm;
+}
+.info-text{
+    box-shadow: 0 12px 12px rgba(0, 0, 0, 0.384);
+    background-color: rgb(243, 185, 26);
+    color: white;
+    font-size: 0.9cm;
+    font-family: 'Poppins-Bold';
+}
+.info-description{
+    font-size: 0.6cm;
+}
+.download{
+    box-shadow: 0 12px 12px rgba(0, 0, 0, 0.384);
+    background-color: black;
+    border-radius: 16px;
+    float: center;
+}
