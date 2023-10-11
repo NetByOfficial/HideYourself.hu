@@ -50,7 +50,7 @@ body{
     font-family: 'Inversionz';
 }
 .topmenu{
-    background-color: rgb(173, 72, 72);
+    background-color: rgba(49, 38, 143, 0.973);
     border-radius: 15px;
     box-shadow: 0 16px 16px rgba(0, 0, 0, 0.37);
 }
@@ -63,7 +63,7 @@ body{
     font-size: 0.9cm;
     text-align: center;
     font-family: 'Poppins-Bold';
-    color: rgb(248, 191, 106);
+    color: rgb(245, 245, 245);
     text-decoration: none;
 }
 .nametext p{
@@ -97,7 +97,7 @@ a:hover{
 }
 .info-text{
     box-shadow: 0 12px 12px rgba(0, 0, 0, 0.384);
-    background-color: rgb(243, 185, 26);
+    background-color: rgb(143, 38, 38);
     color: white;
     font-size: 0.9cm;
     font-family: 'Poppins-Bold';
